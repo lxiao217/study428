@@ -34,14 +34,12 @@ https://xiaoling.blog.csdn.net/article/details/130870767
 
 注意： 课程需要在抖音APP那里报名，可以到电脑网页端学习。
 
-![自动驾驶系列课程二维码]([./自动驾驶系列课程二维码.jpg](https://github.com/lxiao217/study428/blob/main/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg) "Magic Gardens")
 
 ## 最超值的系列课
 自动驾驶入门进阶实战系列包含七门课程：
 
 C++编程实战
 
-![C++课程二维码](./C++/C%2B%2B%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.png "Magic Gardens")
 
 Python编程实战
 
@@ -52,7 +50,6 @@ ROS2编程实战
 计算机视觉与OpenCV算法实战
 
 
-![计算机视觉课程二维码](./计算机视觉与OpenCV算法/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%8EOpenCV%E7%AE%97%E6%B3%95%E5%AE%9E%E6%88%98.png "Magic Gardens")
 
 SLAM算法实战
 
