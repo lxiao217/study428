@@ -3,6 +3,25 @@
 欢迎关注公众号“计算机视觉与OpenCV”~
 欢迎添加我的微信号study428讨论交流。
 
+## 我的自媒体号的链接
+### 公众号（外面有码）
+https://mp.weixin.qq.com/s?__biz=MzU3ODc3MTYxNw==&mid=2247484315&idx=1&sn=fedd03f734df3578dbc37e9525be699b&chksm=fd710c55ca068543bf16eafa6065032d385d34764fcbd0cf113e0657ad5f3b4ae2e4ceedc9b2&mpshare=1&scene=23&srcid=0525IgXfyCCcE9yah3wzG7Vm&sharer_sharetime=1685011086582&sharer_shareid=6f19440ce52b5df0f362da64cf709f90#rd
+
+### B站
+C++学习路线
+https://www.bilibili.com/video/BV1zL411q7qo/
+自动驾驶感知学习路线：
+https://www.bilibili.com/video/BV15o4y1M7Yx/
+
+### CSDN
+https://xiaoling.blog.csdn.net/article/details/130870767
+
+### 抖音（外面有码）
+抖音太难做了，要是看到就帮我扫个抖音码加个关注吧；
+如果有兴趣，点点里面的视频，帮忙点点赞；
+谢谢各位发财的小手~~~~
+
+
 # 我的课程
 先介绍一下我的课程吧，毕竟还是要吃饭的~，大家支持我了也会物有所值的。
 
@@ -31,3 +50,6 @@ SLAM算法实战
 ## 报名课程后可以获得
 学习的讲义
 经过整理后值得一看的的电子书大礼包
+
+
+
