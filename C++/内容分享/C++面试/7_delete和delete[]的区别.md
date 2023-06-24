@@ -72,9 +72,5 @@ int main() {
 
 释放数组对象时，使用delete时只会调用第一个对象的析构函数，可能会造成内存泄漏；而使用delete[]时会逐个调用析构函数来释放数组的所有对象。
 
-## 参考资料
 
-[delete 和 delete[] 的真正区别](https://www.cnblogs.com/wangjian8888/p/7905176.html)
-
-[C++中的delete和delete[ ]的区别](https://blog.csdn.net/u012936940/article/details/80919880)
 
